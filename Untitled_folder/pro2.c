@@ -9,8 +9,9 @@ int print(int a)
 }
 int main()
 {
-    int x;
+    int x,y;
     x=print(10);
-    printf("%d",x);
+    y=print(20);
+    printf("%d %d",x,y);
     return 0;
 }
