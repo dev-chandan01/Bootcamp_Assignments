@@ -1,0 +1,1 @@
+printf("Enter the value of a,b and c: ");
