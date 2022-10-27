@@ -1,4 +1,5 @@
 //Define a function to print Pascal Triangle up to N lines.
+//hey give me a fuck
 // Asignment_24, Que_4
 // Topic~ Functions in C++
 // Author~ Shree Chandan Samal
